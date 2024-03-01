@@ -1,6 +1,5 @@
 ### Hey 👋, I'm Zobnin Boris!  
 <div align="right">
-<img src="" align="right" style="width: 100%" />
 </div>  
   
 
