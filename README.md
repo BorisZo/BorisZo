@@ -1,66 +1,61 @@
-### Hey 👋, I'm Zobnin Boris!  
-<div align="right">
-</div>  
-  
+# Hey 👋, I'm Zobnin Boris!  
 
-### <div align="center">Glad to welcome you here 👋!</div>  
-  
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <h2>Glad to welcome you here! 👋</h2>
+</div>
 
-My name is Boris, and I am a junior Full Stack developer with a focus on JavaScript (frontend) and backend (Node.js).  
+## 🚀 About Me  
 
-- 🚀 My mission.
-To turn ambitious ideas into reality by translating them into high-quality, innovative and practical web applications. I view programming as an art, and every project is an opportunity to create something unique and useful for users.  
-  
+👨‍💻 **Who am I?**  
+I'm Boris, a passionate **Full Stack Developer** with a focus on **JavaScript (React, Node.js, TypeScript, PostgreSQL, Keycloak, Chakra UI, MUI)**.  
 
-- 🎓 The pursuit of excellence.
-I try not to stand still and develop my skills. Every day I find new ways to improve my knowledge and skills, whether it's learning new technologies, participating in competitions, or working on my own projects.  
-  
+🎯 **My Mission:**  
+Transform ambitious ideas into high-quality, **scalable**, and **efficient** web applications. Every project is an opportunity to craft something **innovative** and **impactful**.
 
-- ⚡ Ready for Challenges.
-I welcome challenges as an opportunity to step outside my comfort zone and expand my horizons. When faced with new challenges, I find them a source of inspiration and motivation to reach new heights in the world of web development.    
+📖 **Lifelong Learning:**  
+I constantly explore new technologies, enhance my skills, and embrace challenges that push me beyond my comfort zone.
 
-<br/>
-</td></tr></table>  
-<br/>  
+⚡ **Thrives on Challenges:**  
+I see every complex problem as a chance to level up, expand my knowledge, and create **efficient solutions**.
 
-## My Skill Set
+---
+
+## 🛠 My Tech Stack  
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.keycloak.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/4921466?s=200&v=4" alt="Keycloak" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://mui.com/static/logo.png" alt="MUI" height="50" /></a>
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://chakra-ui.com/favicon.ico" alt="Chakra UI" height="50" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" alt="MUI" height="50" /></a>
+  <a href="https://chakra-ui.com/" target="_blank"><img src="https://chakra-ui.com/favicon.ico" alt="Chakra UI" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+  <a href="https://www.keycloak.org/" target="_blank"><img src="https://www.keycloak.org/resources/images/keycloak_logo.png" alt="Keycloak" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 </div>
-<br/>  
 
+---
 
-## Connect with me  
+## 📬 Connect with Me  
 
-</td></tr></table>  
-<br/>  
-<div align="start">
-<a href="https://github.com/BorisZo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<div align="left">
+  <a href="https://github.com/BorisZo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/boris-zobnin-1a47a82b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://bitbucket.org/boris-workspace/workspace/repositories/" target="_blank">
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/boris-zobnin-1a47a82b3/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+---
 
-<a href="https://bitbucket.org/boris-workspace/workspace/repositories/" target="_blank">
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" style="margin-bottom: 5px;" />
-</a>
-
-<br/>  
-
+⭐ **"Great things are done by a series of small things brought together."** – _Vincent Van Gogh_
