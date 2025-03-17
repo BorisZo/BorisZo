@@ -19,13 +19,11 @@ I try not to stand still and develop my skills. Every day I find new ways to imp
 - ⚡ Ready for Challenges.
 I welcome challenges as an opportunity to step outside my comfort zone and expand my horizons. When faced with new challenges, I find them a source of inspiration and motivation to reach new heights in the world of web development.    
 
-<br/>  
-
+<br/>
 </td></tr></table>  
 <br/>  
 
-## My Skill Set  
-
+## My Skill Set
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
