@@ -6,9 +6,7 @@
 ### <div align="center">Glad to welcome you here 👋!</div>  
   
 
-My name is Boris, and I am a junior Full Stack developer with a focus on JavaScript (frontend) and backend (Node.js).
-I recently successfully completed my Attractor School course and am determined to dive into the world of programming to create exciting projects and grow professionally.  
-  
+My name is Boris, and I am a junior Full Stack developer with a focus on JavaScript (frontend) and backend (Node.js).  
 
 - 🚀 My mission.
 To turn ambitious ideas into reality by translating them into high-quality, innovative and practical web applications. I view programming as an art, and every project is an opportunity to create something unique and useful for users.  
