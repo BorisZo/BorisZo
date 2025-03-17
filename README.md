@@ -44,21 +44,16 @@ I welcome challenges as an opportunity to step outside my comfort zone and expan
   <a href="https://www.postgresql.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 </a>
-
 <a href="https://www.keycloak.org/" target="_blank">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/37816257?s=200&v=4" alt="Keycloak" height="50" />
+  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/4921466?s=200&v=4" alt="Keycloak" height="50" />
 </a>
-
 <a href="https://mui.com/" target="_blank">
   <img style="margin: 10px" src="https://mui.com/static/logo.png" alt="MUI" height="50" />
 </a>
-
 <a href="https://chakra-ui.com/" target="_blank">
   <img style="margin: 10px" src="https://chakra-ui.com/favicon.ico" alt="Chakra UI" height="50" />
 </a>
-
 </div>
-
 <br/>  
 
 
